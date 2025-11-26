@@ -4,7 +4,7 @@
 
 - 🔭 Working on Large Language Models for the detection of Alzheimer's and frontotemporal dementia for my PhD.
 - 🧬 Employed at **TELL Toolkit** & **Cognitive Neuroscience Center (UdeSA)**.
-- 🌱 Learning about **Causal Inference and Speech Processing**.
+- 🌱 Learning about: Clinical NLP & Digital Biomarkers
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jeremiasinchauspe/)
 
 ---
