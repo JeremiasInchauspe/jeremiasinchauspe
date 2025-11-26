@@ -12,19 +12,11 @@
 ### 💻 Languages and Tools
 
 <div align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,js,git" />
-  </a>
-  <br/>
-  <br/>
+  <img src="https://skillicons.dev/icons?i=python,r,js,git" height="48" alt="python-r-js-git" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="48" height="48" style="vertical-align:top; margin: 0 4px; border-radius: 6px; background-color: #242938; padding: 2px;" alt="sql" />
 
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="48" height="48" style="vertical-align:top; margin-right:4px;" alt="SQL" />
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn" height="48" alt="pandas-sklearn" />
 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
-  </a>
-
-  <a href="https://ollama.com/">
-    <img src="https://avatars.githubusercontent.com/u/142998463?v=4" width="48" height="48" style="vertical-align:top; margin-left:4px; border-radius: 12px;" alt="Ollama" />
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/142998463?s=48&v=4" width="48" height="48" style="vertical-align:top; margin-left: 4px; border-radius: 6px;" alt="ollama" />
 </div>
