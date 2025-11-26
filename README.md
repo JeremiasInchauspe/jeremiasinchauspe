@@ -12,12 +12,9 @@
 ### 💻 Languages and Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python,r,js" height="48" alt="python-r-js" />
-  <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" width="48" height="48" style="vertical-align:top; margin-left: 4px; border-radius: 6px; background-color: #e3e3e3; padding: 2px;" alt="sql" />
+  <img src="https://skillicons.dev/icons?i=python,r,js,git" height="48" alt="languages" />
   <br/>
-  <br/>
-
-  <img src="https://skillicons.dev/icons?i=pandas,sklearn" height="48" alt="pandas-sklearn" />
-  <img src="https://avatars.githubusercontent.com/u/142998463?s=48&v=4" width="48" height="48" style="vertical-align:top; margin: 0 4px; border-radius: 6px;" alt="ollama" />
-  <img src="https://skillicons.dev/icons?i=git" height="48" alt="git" />
+  
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn" height="48" alt="data-tools" />
+  <img src="https://github.com/ollama.png" width="48" height="48" style="vertical-align:top; margin-left: 4px; border-radius: 6px;" alt="ollama" />
 </div>
