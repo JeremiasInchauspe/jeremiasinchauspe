@@ -11,11 +11,20 @@
 
 ### 💻 Languages and Tools
 
-<p align="left">
+<div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,r,js,mysql,pandas,sklearn,git&perline=14" />
+    <img src="https://skillicons.dev/icons?i=python,r,js,git" />
   </a>
+  <br/>
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" width="48" height="48" style="vertical-align:top; margin-right:4px;" alt="SQL" />
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pandas,sklearn" />
+  </a>
+
   <a href="https://ollama.com/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/Ollama_logo.svg" width="48" height="48" alt="Ollama" style="vertical-align:top; margin-left:5px; background-color: white; border-radius: 12px; padding: 2px;" />
+    <img src="https://avatars.githubusercontent.com/u/142998463?v=4" width="48" height="48" style="vertical-align:top; margin-left:4px; border-radius: 12px;" alt="Ollama" />
   </a>
-</p>
+</div>
